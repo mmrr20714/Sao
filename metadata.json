@@ -1,0 +1,6 @@
+{
+  "name": "Aincrad Grid: VR Group Chat",
+  "description": "A futuristic virtual reality-inspired messaging and collaboration platform set in the neon holographic world of Sword Art Online, featuring dynamic real-time chats, level progression, HP bars, daily quests, guild systems, and immersive voice/video call chambers.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
